@@ -4,3 +4,4 @@ OCR transfer attacks via Universal Adversarial Perturbations on VLMs and vision 
 Link Dataset:
 - Scene text: https://www.kaggle.com/datasets/ipythonx/totaltextstr
 - Imagenet Validation: https://www.kaggle.com/datasets/titericz/imagenet1k-val
+- Perturbations: https://www.kaggle.com/datasets/tinphan2007/ocr-perturbations/data
